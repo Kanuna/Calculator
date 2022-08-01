@@ -8,19 +8,18 @@ namespace Calculator
         {
             Console.WriteLine(Multiply(1, 2));
             Console.WriteLine(Divide(2, 3));
+            Console.WriteLine(Add(1, 2));
+            Console.WriteLine(Minus(4, 2));
         }
 
         static double Multiply(int a, int b)
         {
-            
             return a * b;
         }
 
         static double Divide(double a, double b)
         {
             return a / b;
-            Console.WriteLine(Add(1, 2));
-            Console.WriteLine(Minus(4, 2));
         }
 
         static double Add(double a, double b)
