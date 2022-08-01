@@ -6,11 +6,13 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Multiply(1, 2));
-            Console.WriteLine(Divide(2, 3));
+
+            Console.WriteLine(Multiply(6, 9));
+            Console.WriteLine(Divide(6, 9));
             Console.WriteLine(Add(1, 2));
             Console.WriteLine(Minus(4, 2));
             WriteThis();
+
         }
 
         static double Multiply(int a, int b)
