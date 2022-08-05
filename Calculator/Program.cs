@@ -41,7 +41,6 @@ namespace Calculator
             }
 
             Console.WriteLine("result: " + result);
-            string test = "";
             Console.WriteLine("To restart press R");
 
             //hivs man trykker på r keyen bliver consolen cleared og vi gå til restart
