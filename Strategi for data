@@ -1,0 +1,26 @@
+Lav en beskrivelse af hvordan I vil sikre jeres data under uddannelse
+
+-Fil-stuktur
+  Jeg vil oprette mapper og filer, og navngive dem med relevante titler, så det bliver nemt at finde rundt i det hele.
+  
+-Ét repo eller mange 
+    Jeg vil oprette et repo til hvert stort projekt. Til de mindre eller sammenhængende projekter vil jeg lave et repo til det hele.
+    
+-Adgangskontrol
+    Jeg vil kun dele det med de relevante personer, og administrere hvad de laver.
+
+-Hvordan skal i holde struktur i filer? 
+  Navngivning af filer
+  Kommantar i code
+  Navngivning af variabler og metoder
+  Inddele filerne i mapper(hvis det er relevant)
+
+-Hvad skal der beskrives i commit beskeder?
+  Der skal beskrives hvad der er lavet/rettet
+
+-Hvad er grunden til at i vil branche?
+  Det er for at gøre det hele mere sikkert. Du kan nememre holde styr på programmet. Hvis du er på en branch og du fucker noget op,
+  så ødelægger det ikke hele programmet. Det gør det også nemmere for flere personer om at arbejde på samme projekt.
+
+-Hvordan vil i lave code review?
+  Jeg vil få min/mine gruppermedlemmer til at gennemgå det hurtigt/skimme det.
